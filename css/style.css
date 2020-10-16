@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #cc0000;
+}
+
+.nav a{
+    color: white;
+}
+
+.nav a:hover{
+    color: yellow;
+}
+
+.margin{
+    padding: 30px;
+}
+
+.quem-somos{
+    background-color: #ff5050;
+    font-family: "Ubuntu;
+}
+
+.parceiros{
+    background-color: white;
+}
+
+.parceiros{
+    font-family: "Ubuntu;
+}
